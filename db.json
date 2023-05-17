@@ -3,10 +3,17 @@
     {
       "id":1,
       "popularity": "Best Seller",
-      "image": "https://www.specialized.com/us/en/tarmac-sl7-comp---rival-etap-axs/p/199523?color=321387-199523",
+      "image": "https://assets.specialized.com/i/specialized/96223-30_DIVERGE-STR-EXPERT-BLK-DMNDDST_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
       "name": "Tarmac SL7 Comp - Rival eTap AXS",
       "price": "$5,500",
-      "mrp": ""
+      "mrp": "$7,500",
+      "image1": "https://assets.specialized.com/i/specialized/96223-30_DIVERGE-STR-EXPERT-BLK-DMNDDST_FDSQ?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+      "image2": "https://assets.specialized.com/i/specialized/96223-30_DIVERGE-STR-EXPERT-BLK-DMNDDST_D1-POV?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+      "image3": "https://assets.specialized.com/i/specialized/96223-30_DIVERGE-STR-EXPERT-BLK-DMNDDST_D2-BAR?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+      "image4": "https://assets.specialized.com/i/specialized/96223-30_DIVERGE-STR-EXPERT-BLK-DMNDDST_D4-STTT?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+      "image5": "https://assets.specialized.com/i/specialized/96223-30_DIVERGE-STR-EXPERT-BLK-DMNDDST_D3-HT?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+      "imgae6": "https://assets.specialized.com/i/specialized/96223-30_DIVERGE-STR-EXPERT-BLK-DMNDDST_RDSQ?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+
     },
     {
       "id":2,
